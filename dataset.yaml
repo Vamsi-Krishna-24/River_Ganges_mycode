@@ -3,5 +3,5 @@ path: /Users/surisettivamsikrishna/Downloads/Vamsi Pc/CODES/Mark2/River Ganges/D
 train: train/images
 val: valid/images
 
-nc: 2  # Number of classes
-names: ['plastic', 'river']  # Class names
+nc: 3  # Number of classes
+names: ['empty','plastic', 'river']  # Class names
